@@ -1,17 +1,21 @@
-# Your Name's Resume
+# Athul Krishna VS
 
 ## Contact Information
 
-- **Phone:** (123) 456-7890
-- **Email:** your.email@example.com
+- **Phone:** +91 9497412943
+- **Email:** athulkrishna138@gmail.com
 
 ## Education
 
-- **Degree:** Your Degree
-- **University:** University Name
-- **Year:** Graduation Year
+- **UG:** Don Bosco College, Mannuthy
+- **University:** Calicut University
+- **Year:** 2017
 
-### Education Projects
+- **PG:** Vidya Academy of Science and Technology, Thrissur
+- **University:** APJ Abdul Kalam Technological University (KTU)
+- **Year:** 2021
+
+### Projects
 
 - **Project 1:** Description of Project 1
 - **Project 2:** Description of Project 2
@@ -24,9 +28,11 @@
 
 ### Programming Languages and Tools Used
 
-- Language 1
-- Language 2
-- Tool 1
+- NodeJs
+- ExpressJs
+- AdonisJs
+- SailsJs
+- Laravel
 
 ## Projects
 
