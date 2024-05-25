@@ -254,8 +254,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     line-height: 1.8;
 }
 .single-about-txt p {
-    font-size: 16px;
-    color: #999fb3;
+    font-size: 13px;
+    color: #4a5065;
     padding: 35px 0 43px;
     border-bottom: 1px solid #999fb3;
 }
@@ -263,7 +263,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     margin: 35px 0;
 }
 .single-about-add-info h3 {
-    color: #636a82;
+    color: #313953;
     font-size: 16px;
     text-transform: capitalize;
 }
